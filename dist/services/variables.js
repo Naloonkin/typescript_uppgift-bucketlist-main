@@ -1,6 +1,3 @@
-import { Dream } from "../models/dream";
-
-
 export const themes = ["teknikdrömmar", "vardagsdrömmar", "husdrömmar", "sportdrömmar", "resdrömmar"];
 export let name = "NAMN";
 /*export const dreams: Dream[] = [{
@@ -21,4 +18,5 @@ export let name = "NAMN";
     theme: "vardagsdrömmar",
     checked: false
 }
-]*/
+]*/ 
+//# sourceMappingURL=variables.js.map

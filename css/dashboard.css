@@ -84,3 +84,9 @@
          transform: translateX(0);
      }
  }
+
+
+
+ .info-message {
+     color: var(--color-text-secondary);
+ }

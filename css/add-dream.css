@@ -7,3 +7,17 @@
      font-weight: 400;
      margin: var(--spacing-medium);
  }
+
+ .error-message {
+     color: var(--error-color);
+     font-size: 0.9rem;
+     margin-top: 0.5rem;
+ }
+
+ .success-message {
+     color: var(--success-color);
+     font-size: 0.9rem;
+     margin-top: 0.5rem;
+ }
+
+

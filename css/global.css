@@ -7,6 +7,8 @@
     --primary-red: #AF2279;
     --text-color: #333;
     --background-color: #F0F0F0;
+    --error-color: #a30505;
+    --success-color: #149769;
 
     /* Typografi */
     --font-family-sans-serif: 'Poppins', Helvetica, Arial, sans-serif;
